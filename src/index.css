@@ -93,3 +93,9 @@ button{
 .wed{
     width: 600px;
 }
+@media (max-width: 1000px) {
+    .imagge img{
+        margin-top: 200px;
+        width: 60% !important;
+    }
+  }
